@@ -1,0 +1,6 @@
+print("estos son los códigos postales de  Madrid Centro")
+
+for cpostal in range (28011, 28016):
+    print(cpostal)
+
+#un ejemplo básico del uso de el for.
